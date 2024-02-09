@@ -28,3 +28,6 @@ Simultaneously, efforts will be made to accelerate the establishment of a three-
 The 18th World Water Resources Conference will be held from September 11 to 15 in Beijing. This marks the first time that China hosts the World Water Resources Conference.
 
 The theme of this conference is "Water and All: Harmonious Coexistence between People and Nature." It consists of six sub-themes: "The Nexus of 'Water Resources, Population, Economy, and Ecology' in a Changing Environment," "Improving Water Use Efficiency and Benefits for Water Public Services," "Building a Resilient Disaster Prevention and Reduction System," "Enhancing the Quality and Stability of Water Ecosystems," "Advancing Sustainable Smart Water Infrastructure Construction," and "Innovations in Water Governance and Management."
+
+News from Wuhan: As of 18:00 on July 11th, 2020, the water level at the gauge station in Wuhan is 28.44 meters. Ding Xinhong, the head of the flood control expert group at the Wuhan Flood Control Office, stated that currently, the water level of the Yangtze River is still rising, and it is expected to reach 29.2 meters around the 16th of July. This water level will rank third in the hydrological records history of Wuhan, only surpassed by the levels in 1954 (29.73 meters) and 1998 (29.43 meters).
+
