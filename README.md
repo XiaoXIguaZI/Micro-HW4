@@ -7,6 +7,10 @@ Pengpai News Reporter: Diao Fanchao
 Date: September 6, 2023, 18:37
 Source: Pengpai News
 
+News from Wuhan: As of 18:00 on July 11th, 2020, the water level at the gauge station in Wuhan is 28.44 meters. Ding Xinhong, the head of the flood control expert group at the Wuhan Flood Control Office, stated that currently, the water level of the Yangtze River is still rising, and it is expected to reach 29.2 meters around the 16th of July. This water level will rank third in the hydrological records history of Wuhan, only surpassed by the levels in 1954 (29.73 meters) and 1998 (29.43 meters).
+
+Academician Wang Hao once pointed out, "The storage coefficient, which represents the ratio of a country's reservoir storage capacity to the river runoff, is typically above 0.9 in European countries, 0.66 in the United States, while in China, it is currently below 0.3." The direct consequence of insufficient reservoir storage capacity is that in the face of major floods, developed countries can retain water in reservoirs, whereas China has to exert all efforts in flood control and emergency response, aiming to divert floodwaters to the sea for safety. However, during periods of drought, China also faces the dilemma of inadequate water supply.
+
 "Building a resilient disaster prevention and reduction system" is one of the six main themes of the 18th World Water Resources Conference. Against the backdrop of global climate change, the water safety risks of extreme heavy rainfall triggering floods continue to intensify. What efforts has the water resources sector made in constructing a resilient flood defense system? What are the next steps in their plans?
 
 On September 6th, the Water Resources Ministry held a press conference on the relevant situation of the 18th World Water Resources Conference. When asked by The Paper journalist, Liu Weiping, the Deputy Minister of Water Resources, stated that since the founding of the People's Republic of China, especially since the 18th National Congress of the Communist Party of China, the Party has led the people nationwide in carrying out large-scale water conservancy projects, continuously solidifying the foundation for flood prevention and disaster reduction.
@@ -28,6 +32,4 @@ Simultaneously, efforts will be made to accelerate the establishment of a three-
 The 18th World Water Resources Conference will be held from September 11 to 15 in Beijing. This marks the first time that China hosts the World Water Resources Conference.
 
 The theme of this conference is "Water and All: Harmonious Coexistence between People and Nature." It consists of six sub-themes: "The Nexus of 'Water Resources, Population, Economy, and Ecology' in a Changing Environment," "Improving Water Use Efficiency and Benefits for Water Public Services," "Building a Resilient Disaster Prevention and Reduction System," "Enhancing the Quality and Stability of Water Ecosystems," "Advancing Sustainable Smart Water Infrastructure Construction," and "Innovations in Water Governance and Management."
-
-News from Wuhan: As of 18:00 on July 11th, 2020, the water level at the gauge station in Wuhan is 28.44 meters. Ding Xinhong, the head of the flood control expert group at the Wuhan Flood Control Office, stated that currently, the water level of the Yangtze River is still rising, and it is expected to reach 29.2 meters around the 16th of July. This water level will rank third in the hydrological records history of Wuhan, only surpassed by the levels in 1954 (29.73 meters) and 1998 (29.43 meters).
 
